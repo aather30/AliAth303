@@ -1,0 +1,5 @@
+venv/
+data/sample_data.csv
+__pycache__/
+ds_coding_challenge.pdf
+.DS_Store
