@@ -11,6 +11,8 @@ The test coverage of the API code can be seen in the HTML page located in the fo
 
 The approach of the project is discussed in detail in the file named `problem_solving_approach.docx`.
 
+NOTE: The dataset analysis, preprocessing and modelling are being done in the notebook `train.ipynb` in the `notebooks` directory.
+
 
 ## How to Setup
 
